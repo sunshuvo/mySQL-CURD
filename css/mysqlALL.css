@@ -1,0 +1,53 @@
+
+.read{
+	display:inline-block;
+	width:45%;
+	vertical-align: top;
+	float: right;
+
+}
+.read_CL{
+	display:inline-block;
+	width:30%;
+	vertical-align: top;
+	float: left;
+}
+.read_CM{
+	display:inline-block;
+	width:30%;
+	vertical-align: top;
+	float: center;
+}
+.read_CR{
+	display:inline-block;
+	width:30%;
+	vertical-align: top;
+	float: right;
+}
+.cud{
+	display:inline-block;
+	width:50%;
+	float: left;
+}
+.content{
+	display:inline-block;
+	width: 100%;
+}
+.table{
+	display: table;         
+	width: 100%;         
+	background-color: #eee;         
+	border: 1px solid #666666;         
+	border-spacing: 5px;
+}
+.tableROW{
+	display: table-row;
+	width: 100%;
+	clear: both;
+}
+.tableCUL{
+	display: table-column;
+	width: 30%;
+	background-color: #ccc;
+	float: left;
+}
